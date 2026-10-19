@@ -67,7 +67,7 @@ public class Factura {
         }
     }
 
-    // Método para calcular el monto de la factura
+    // Metodo para calcular el monto de la factura
     public double obtenerMontoFactura() {
         return cantidad * precioArticulo;
     }
