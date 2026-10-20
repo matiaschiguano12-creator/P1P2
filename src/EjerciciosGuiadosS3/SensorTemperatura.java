@@ -4,7 +4,7 @@ public class SensorTemperatura {
 
     private String ubicacion;
     private double temperatura;
-
+ 
     public SensorTemperatura(String ubicacion, double temperatura) {
         this.ubicacion = ubicacion;
         this.temperatura = temperatura;
